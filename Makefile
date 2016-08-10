@@ -1,10 +1,10 @@
-targets = systems2016.pdf
+targets = jut2016.pdf
 
 all: $(targets)
 
 pdflatex = pdflatex -interaction=errorstopmode -halt-on-error
 
-%.pdf: %.tex systems2016.bib
+%.pdf: %.tex jut2016.bib
 	$(pdflatex) $<
 	bibtex $*
 	$(pdflatex) $<
