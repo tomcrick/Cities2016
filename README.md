@@ -1,2 +1,2 @@
-# Systems2016
-Paper for Systems journal Special Issue on "Smart Cities and Regions as Systems of Innovation"
+# JUT2016
+Paper for the Journal of Urban Technology
