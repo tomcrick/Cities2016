@@ -1,2 +1,2 @@
-# JUT2016
-Paper for the Journal of Urban Technology
+# Cities2016
+Paper for Elsevier's Cities, the International Journal of Urban Policy and Planning
